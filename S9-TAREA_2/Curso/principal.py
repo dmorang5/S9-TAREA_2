@@ -19,7 +19,7 @@ while opcion != "5":
         while opc1 != "7":
             os.system("cls")
             print("PYTHON")
-            opc1 = main.menu(["1) Ejercicio 1","2) Ejercicio 2","3) Ejercicio 3", "4) Ejercicio 4", "5) Ejercicio 5", "6) Ejercicio 6", "7) Ejercicio 7","8) Ejercicio 8" ,"9) Ejercicio 9" ,"10) Ejercicio 10"                                                                                                                                                           "1) Ejercicio 1",
+            opc1 = main.menu(["1) Ejercicio 1","2) Ejercicio 2","3) Ejercicio 3", "4) Ejercicio 4", "5) Ejercicio 5", "6) Ejercicio 6", "7) Ejercicio 7","8) Ejercicio 8" ,"9) Ejercicio 9" ,"10) Ejercicio 10",
                               "11) Ejercicio 11","12) Ejercicio 12", "13) Ejercicio 13", "14) Ejercicio 14", "15) Ejercicio 15", "16) Ejercicio 16","17) Ejercicio 17", "18) Ejercicio 18", "19) Ejercicio 19", "20) Ejercicio 20",
                               "21) Ejercicio 21","22) Ejercicio 22", "23) Ejercicio 23", "24) Ejercicio 24", "25) Salir"],
                               "Sub-menú Python")
